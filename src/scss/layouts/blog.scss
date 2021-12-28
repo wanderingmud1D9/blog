@@ -1,16 +1,16 @@
-
 .blog-post {
   font-weight: 100;
   font-size: x-large;
 
   header {
     h1 {
-      color: #509f98;
+      color: $secondary-color;
       font-weight: 700;
     }
 
     p {
       font-weight: 600;
+      letter-spacing: 0.125rem;
     }
   }
 
