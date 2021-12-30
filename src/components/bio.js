@@ -18,6 +18,9 @@ const Bio = () => {
             name
             summary
           }
+          social {
+            github
+          }
         }
       }
     }
