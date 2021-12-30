@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"wanderingmud1D9"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Hello world.","fields":{"slug":"/12-31-2021/"},"frontmatter":{"date":"December 31, 2021","title":"Instantiating a new blog","description":"An introductory post for this new platform"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["230163734","2841359383"]}

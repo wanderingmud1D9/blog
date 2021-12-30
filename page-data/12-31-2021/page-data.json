@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/12-31-2021/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"wanderingmud1D9"}},"markdownRemark":{"id":"56f41407-fa5d-5d25-9db7-3659208c21d3","excerpt":"Hello world.","html":"<p>Hello world.</p>","frontmatter":{"title":"Instantiating a new blog","date":"December 31, 2021","description":"An introductory post for this new platform"}},"previous":null,"next":null},"pageContext":{"id":"56f41407-fa5d-5d25-9db7-3659208c21d3","previousPostId":null,"nextPostId":null}},
+    "staticQueryHashes": ["230163734","2841359383"]}
