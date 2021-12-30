@@ -8,17 +8,21 @@ body {
   height: inherit;
   color: #ffffff;
 
-  background-color: #0d2a35;
+  background-color: $primary-color;
+  font-family: $font-body;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-heading;
 }
 
 a {
-  color: #af892d;
+  color: $tertiary-color;
   font-weight: 900;
-  text-decoration: none;
 }
 
 h1 {
-  color: #509f98;
+  color: $secondary-color;
 }
 
 #___gatsby {
@@ -36,7 +40,7 @@ h1 {
   display: flex;
   flex-direction: column;
 
-  background-color: #0d2a35;
+  background-color: $primary-color;
 }
 
 .main-heading {
